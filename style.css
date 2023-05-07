@@ -1,0 +1,17 @@
+li[aria-label^='*'] {
+    background-color: #1c1c1c !important;
+    color: #5cafd6 !important;
+    font-size:1.3em;
+    padding-top:10px !important;
+    padding-bottom:10px !important;
+    margin-bottom:5px;
+    margin-top:5px;
+    border-bottom:#5cafd6 !important;
+    cursor: default;
+    pointer-events: none !important;
+    overflow-x: hidden;
+    text-indent: -10px;
+}
+.token-remove.remove-all {
+    display:none !important;
+}
